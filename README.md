@@ -1,6 +1,6 @@
 # Depreciation-Schedule-Maker
 
-A simple program that takes users inputs on an asset's information and creates a csv file showing a payment schedule
+A simple Java program that takes users inputs on an asset's information and creates a csv file showing a payment schedule
 
 Upon the program initialization, a very straightforward GUI will display, prompting the user to input an asset description, its useful life and its cost.
 
